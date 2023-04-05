@@ -26,4 +26,3 @@ plugins:
  exclude:
   - LICENSE
   - README.md
-  - Makefile
