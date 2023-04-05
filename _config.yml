@@ -1,15 +1,15 @@
 author:  "" 
-description:  "" 
+description:  "What's new for SAP on AWS" 
 url:   "news.SAPonAWS.org" 
 email:  "" 
-title:  "What's new for SAP on AWS" 
+title:  "What's New" 
 
 theme: minima
 
 header_pages:
   - _pages/index.md
   - _pages/blogs.md
-  - _pages/docs.md
+  #- _pages/docs.md
 
  
 include:
