@@ -6,7 +6,6 @@ title:  "What's new for SAP on AWS"
 
 theme: minima
 
-
 header_pages:
   - _pages/index.html
   - _pages/docs.html
@@ -19,6 +18,6 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  
-  exclude:
+ exclude:
   - LICENSE
   - README.md
