@@ -9,6 +9,18 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
+
+header_pages:
+  - _pages/homepage.md
+  - _pages/docs.md
+  - _pages/blogs.md
+ 
+
+include:
+    - _pages
+    
+
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
