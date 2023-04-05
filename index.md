@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Home
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
