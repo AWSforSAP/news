@@ -7,13 +7,7 @@ title:  ""
 theme: slate
 
 
-
-header_pages:
-  - _pages/homepage.md
  
-
-include:
-    - _pages
     
     
  
