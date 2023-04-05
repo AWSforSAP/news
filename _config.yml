@@ -4,10 +4,7 @@ url:   "news.SAPonAWS.org"
 email:  "" 
 title:  "" 
 
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
+theme: minima
 
 
 header_pages:
@@ -24,3 +21,4 @@ include:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-remote-theme # add this line to the plugins list if you already have one
