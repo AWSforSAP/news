@@ -7,9 +7,9 @@ title:  "What's new for SAP on AWS"
 theme: minima
 
 header_pages:
-  - _pages/index.html
-  - _pages/blogs.html
-  - _pages/docs.html
+  - _pages/index.md
+  - _pages/blogs.md
+  - _pages/docs.md
 
  
 include:
