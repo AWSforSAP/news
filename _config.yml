@@ -12,17 +12,13 @@ header_pages:
   - _pages/docs.html
   - _pages/blogs.html
  
-
 include:
     - _pages
     
-
-
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
  
- 
- exclude:
+  exclude:
   - LICENSE
   - README.md
