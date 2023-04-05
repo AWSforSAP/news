@@ -8,9 +8,9 @@ theme: minima
 
 
 header_pages:
-  - _pages/homepage.md
-  - _pages/docs.md
-  - _pages/blogs.md
+  - _pages/index.html
+  - _pages/docs.html
+  - _pages/blogs.html
  
 
 include:
