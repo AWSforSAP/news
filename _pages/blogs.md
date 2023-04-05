@@ -5,6 +5,7 @@ title: Latest Blogs
  
 ---
 
+**Latest blog posts about SAP on AWS**
 
 * [Monitor SAP Applications using Amazon CloudWatch Application Insights](https://aws.amazon.com/blogs/awsforsap/monitor-sap-amazon-cloudwatch-application-insights/)
 * [Modernize your SAP eco-system with SAP BTP and AWS services](https://aws.amazon.com/blogs/awsforsap/modernize-your-sap-eco-system-with-sap-btp-and-aws-services/)
