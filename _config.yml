@@ -1,1 +1,24 @@
+author:  "" 
+description:  "" 
+url:   "" 
+email:  "" 
+title:  "" 
+
 theme: slate
+
+
+
+header_pages:
+  - _pages/homepage.md
+ 
+
+include:
+    - _pages
+    
+    
+ 
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
